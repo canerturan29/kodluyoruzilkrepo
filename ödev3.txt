@@ -1,0 +1,4 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisi için 
+root 4 dür
+root un saðýnda 8 bulunur,
+solunda 2 bulunur
